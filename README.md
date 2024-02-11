@@ -1,3 +1,3 @@
 # Hi, I'm Toriqul Haque
 
-First time using Git.
+First time using Github.
